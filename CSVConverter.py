@@ -2,7 +2,7 @@ import pandas as pd
 import uuid
 import json
 from datetime import datetime, timezone
-
+__author__ = "faxe@punkmail.org"
 # Pfad zur alten CSV-Datei (mit Semikolon als Trennzeichen)
 old_csv = 'listeanonym.csv'
 # Pfad zur Ausgabedatei für Listmonk
